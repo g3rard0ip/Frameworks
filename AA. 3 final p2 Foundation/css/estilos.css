@@ -1,0 +1,26 @@
+.lupa{
+  font-size: 25px;
+  padding-left: 4px;
+}
+.imagenes-pequeñas{
+  width: 32%;
+  height: 100px;
+}
+.ancho{
+  width: 100%;
+}
+body{
+  background: url(../img/fondo.jpg)
+}
+.fondo1{
+  background-color: rgb(176, 169, 177, 0%)
+}
+.fondo2{
+  background-color: rgb(176, 169, 177, 60%)
+}
+.fondo3{
+  background-color: rgb(234, 131, 255, 80%)
+}
+.fondo4{
+  background-color: rgb(217, 177, 253, 80%)
+}
